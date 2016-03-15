@@ -1,0 +1,1 @@
+I had a typo in the original sketch; AltSoftSerial uses the Arduino pins 8 and 9 (not 9 and 10). Pin 8 is Rx and pin 9 is Tx. I have updated the sketch.

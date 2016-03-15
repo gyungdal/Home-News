@@ -1,0 +1,52 @@
+<resources>
+    <!-- App Main -->
+    <string name="app_name">Home News</string>
+    <string name="action_settings">Setting</string>
+    <!-- Card View Title -->
+    <string name="Temp">Temperature</string>
+    <string name="Humi">Humidity</string>
+    <string name="Gas">Gas</string>
+    <string name="Dust">Dust</string>
+
+    <!-- Sync -->
+    <string name="Sync">Syncing...</string>
+    <string name="Sync_Fail">Sync fail... Please check your network</string>
+    <string name="Url_Des">Home News URL</string>
+    <string name="Url_Title">URL Setting</string>
+    <string name="Url_Ok">OK</string>
+    <string name="Url_Cancel">CANCEL</string>
+    <string name="Url_Error">Wrong URL. Please check Home News URL</string>
+    <string name="Url_Success">Sync success</string>
+    <string name="Url_Hint">Now URL : </string>
+
+    <!-- Dust_Caution -->
+    <string name="Dust_Danger">Dust concentration is very high</string>
+    <string name="Dust_UnSafe">Dust concentration is slightly hazardous conditions</string>
+    <string name="Dust_Safe">The dust concentration within a safe range</string>
+
+    <!-- Humi_Caution -->
+    <string name="Humi_Up_Danger">The humidity is very high\nPlease Ventilation</string>
+    <string name="Humi_UnSafe">The humidity is a little high</string>
+    <string name="Humi_Safe">The humidity is suitable</string>
+    <string name="Humi_Down_Danger">The humidity is very low</string>
+    <!-- Temp_Caution -->
+    <string name="Temp_High">The temperature is too high</string>
+    <string name="Temp_Mid_High">The temperature is a little high</string>
+    <string name="Temp_Safe">The temperature is suitable</string>
+    <string name="Temp_Mid_Cold">The temperature is a little low</string>
+    <string name="Temp_Cold">The temperature is too low</string>
+
+    <!-- Gas_Caution -->
+    <string name="Gas_Danger">Gas concentration is too danger\nPlease check prices ventilation valve</string>
+    <string name="Gas_UnSafe">The gas concentration is higher than usual</string>
+    <string name="Gas_Safe">Gas concentration is within the safe range</string>
+
+    <!-- Other -->
+    <string name="Preparing">Preparing</string>
+    <string name="Inner">House inside</string>
+    <string name="Outer">House outside</string>
+    <string name="Debug">Debug Mode</string>
+    <string name="NotReady">This function is not ready</string>
+    <string name="SaveUrl">Url store success</string>
+
+</resources>

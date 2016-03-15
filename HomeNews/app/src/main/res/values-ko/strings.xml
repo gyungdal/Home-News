@@ -1,0 +1,54 @@
+<resources>
+    <!-- App Main -->
+    <string name="app_name">홈 뉴스</string>
+    <string name="action_settings">설정</string>
+
+    <!-- Card View Title -->
+    <string name="Temp">온도</string>
+    <string name="Humi">습도</string>
+    <string name="Gas">가스 농도</string>
+    <string name="Dust">먼지 농도</string>
+
+    <!-- Sync -->
+    <string name="Sync">동기화 중...</string>
+    <string name="Sync_Fail">동기화 실패... 네트워크를 확인해 주세요.</string>
+    <string name="Url_Des">홈뉴스의 주소를 입력해주세요</string>
+    <string name="Url_Title">주소 설정</string>
+    <string name="Url_Ok">확인</string>
+    <string name="Url_Cancel">취소</string>
+    <string name="Url_Error">URL이 잘못되었습니다.</string>
+    <string name="Url_Success">동기화 성공</string>
+    <string name="Url_Hint">현재 URL : </string>
+
+    <!-- Dust_Caution -->
+    <string name="Dust_Danger">먼지 농도가 매우 높은 상태입니다</string>
+    <string name="Dust_UnSafe">먼지 농도가 약간 위험한 상태입니다</string>
+    <string name="Dust_Safe">먼지 농도가 안전한 범위 내 입니다</string>
+
+    <!-- Humi_Caution -->
+    <string name="Humi_Up_Danger">습도가 매우 높습니다\n환기를 해주세요</string>
+    <string name="Humi_UnSafe">습도가 약간 높은 편 입니다</string>
+    <string name="Humi_Safe">습도가 적당합니다</string>
+    <string name="Humi_Down_Danger">습도가 매우 낮습니다</string>
+
+    <!-- Temp_Caution -->
+    <string name="Temp_High">온도가 너무 높습니다</string>
+    <string name="Temp_Mid_High">온도가 약간 높은 편 입니다</string>
+    <string name="Temp_Safe">온도가 적당합니다</string>
+    <string name="Temp_Mid_Cold">온도가 약간 낮은 편 입니다</string>
+    <string name="Temp_Cold">온도가 너무 낮습니다</string>
+
+    <!-- Gas_Caution -->
+    <string name="Gas_Danger">가스 농도가 위험수준에 도달했습니다.\n환기를 하시고 벨브를 확인 해 주세요</string>
+    <string name="Gas_UnSafe">가스 농도가 평소보다 높은 편 입니다</string>
+    <string name="Gas_Safe">가스 농도가 안전한 범위 내 입니다</string>
+
+    <!-- Other -->
+    <string name="Preparing">준비중 입니다!</string>
+    <string name="Inner">집 내부</string>
+    <string name="Outer">집 외부</string>
+    <string name="Debug">디버그 모드</string>
+    <string name="NotReady">준비중 입니다!</string>
+    <string name="SaveUrl">Url 저장 성공</string>
+
+</resources>
